@@ -16,7 +16,7 @@ public class Server {
 
   // Rede foi construído como um servidor
   public Server() {
-    System.out.println("Constructing server Networks object");
+    System.out.println("Construindo servidor");
     isServer = true;
   }
 
